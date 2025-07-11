@@ -1,0 +1,49 @@
+svg{
+    position: right;
+}
+
+form{
+
+   
+   display: grid;
+   width: fit-content;
+   padding: 20px;
+   padding: 50px 150px 50px 150px;
+   gap: 20px;
+   margin: auto;
+   margin-top: 200px;
+   box-shadow: 20px;
+   font-family: 'Courier New', monospace;
+   border-color: black;
+   
+    
+}
+
+input{
+   border: none;
+   background-color: rgb(238, 238, 238);
+   border-radius: 5px;
+   height: 40px;
+   width: 450px;
+   
+  
+}
+
+p{
+    margin: 0px;
+    color: black;
+}
+
+button{
+    height: 45px;
+    background-color: rgb(143, 211, 143);
+    font-family: 'Courier New', monospace;
+    border-style: none;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: rgb(99, 178, 99);
+}
+
