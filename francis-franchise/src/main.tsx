@@ -3,13 +3,15 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import Login from './login/login.tsx'
-import Navigation from './landing-page/Navigation.tsx'
+import SignUp from './signup/signup.tsx'
+import Banner from './banner/banner.tsx'
+
 
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
+    <Banner/>
     <App />
-  <Navigation/>
-   <Login/>
+    
   </StrictMode>,
 )

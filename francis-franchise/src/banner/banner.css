@@ -1,0 +1,13 @@
+.bannerContainer{
+    height: 25px;
+    background-color: black;
+}
+
+.bannerContainer p {
+   
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    
+}
