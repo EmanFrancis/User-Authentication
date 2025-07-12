@@ -13,7 +13,10 @@ form{
    margin: auto;
    margin-top: 50px;
    box-shadow: 20px;
-   font-family: 'Courier New', monospace;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
    border-color: black;
    
     
@@ -37,7 +40,7 @@ p{
 button{
     height: 45px;
     background-color: rgb(143, 211, 143);
-    font-family: 'Courier New', monospace;
+     font-family: "Quicksand", sans-serif;
     border-style: none;
     border-radius: 8px;
     margin-top: 20px;

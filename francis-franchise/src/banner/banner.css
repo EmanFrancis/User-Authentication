@@ -4,7 +4,11 @@
 }
 
 .bannerContainer p {
-   
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+
     color: white;
     text-align: center;
     align-items: center;
