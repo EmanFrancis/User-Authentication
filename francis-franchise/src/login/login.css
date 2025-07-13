@@ -1,58 +1,55 @@
+form {
 
 
-form{
-
-   
-   display: grid;
-   width: fit-content;
-   padding: 20px;
-   padding: 50px 150px 50px 150px;
-   gap: 20px;
-   margin: auto;
-   margin-top: 50px;
-   box-shadow: 20px;
+    display: grid;
+    width: fit-content;
+    padding: 20px;
+    padding: 50px 150px 50px 150px;
+    gap: 20px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 20px;
     font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
- 
-  font-style: normal;
-   border-color: black;
-   
-    
+    font-optical-sizing: auto;
+    font-style: normal;
+    border-color: black;
+
+
 }
 
-input{
-   border: none;
-   background-color: rgb(238, 238, 238);
-   border-radius: 5px;
-   height: 40px;
-   width: 450px;
-   
-  
+input {
+    border: none;
+    background-color: rgb(238, 238, 238);
+    border-radius: 5px;
+    height: 40px;
+    width: 450px;
+
+
 }
 
-p{
+p {
     margin: 0px;
     color: black;
 }
 
-button{
+button {
     height: 45px;
     background-color: rgb(143, 211, 143);
-     font-family: "Quicksand", sans-serif;
+    font-family: "Quicksand", sans-serif;
     border-style: none;
     border-radius: 8px;
     margin-top: 20px;
 }
 
-button:hover{
+button:hover {
     background-color: rgb(99, 178, 99);
 }
 
-.options{
+.options {
     display: flex;
     gap: 50px;
     justify-content: center;
-    
+
 }
 
 .options a {
@@ -60,7 +57,7 @@ button:hover{
     color: black;
 }
 
-.options a:hover{
+.options a:hover {
     text-decoration: underline;
-    
+
 }

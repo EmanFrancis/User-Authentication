@@ -6,9 +6,9 @@ export default function SignUp(){
   
   <div className="SignUpContainer">
       <form className="formWrap">
-        <p>FirstName</p>
+        <p>First Name</p>
          <input type="text"></input>
-         <p>LastName</p>
+         <p>Last Name</p>
          <input type="text"></input>
          <p>Email</p>
          <input type="text"></input>
